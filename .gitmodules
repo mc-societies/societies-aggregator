@@ -1,0 +1,21 @@
+[submodule "societies-api"]
+	path = societies-api
+	url = https://github.com/mc-societies/societies-api
+[submodule "lib-groups"]
+	path = lib-groups
+	url = https://github.com/mc-societies/lib-groups
+[submodule "societies-bukkit-plugin"]
+	path = societies-bukkit-plugin
+	url = https://github.com/mc-societies/societies-bukkit-plugin
+[submodule "societies"]
+	path = societies
+	url = https://github.com/mc-societies/societies
+[submodule "bukkit-bridge"]
+	path = bukkit-bridge
+	url = https://github.com/mc-societies/bukkit-bridge
+[submodule "shank"]
+	path = shank
+	url = https://github.com/mc-societies/shank
+[submodule "bridge"]
+	path = bridge
+	url = https://github.com/mc-societies/bridge

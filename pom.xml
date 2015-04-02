@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+	http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.societies</groupId>
+	<artifactId>aggregator</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0</version>
+	<name>Societies Aggregator</name>
+
+	<modules>
+		<module>lib-core</module>
+		<module>lib-groups</module>
+		<module>bridge</module>
+		<module>bukkit-bridge</module>
+		<module>societies-api</module>
+		<module>shank</module>
+		<module>societies</module>
+		<module>societies-bukkit-plugin</module>
+	</modules>
+</project>
