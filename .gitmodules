@@ -19,6 +19,6 @@
 [submodule "bridge"]
 	path = bridge
 	url = https://github.com/mc-societies/bridge
-[submodule "clib-core"]
-	path = clib-core
+[submodule "lib-core"]
+	path = lib-core
 	url = https://github.com/catharos/clib-core
