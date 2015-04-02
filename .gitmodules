@@ -19,6 +19,6 @@
 [submodule "bridge"]
 	path = bridge
 	url = https://github.com/mc-societies/bridge
-[submodule "lib-core"]
-	path = lib-core
-	url = https://github.com/catharos/clib-core
+[submodule "order.java"]
+	path = order.java
+	url = https://github.com/maxammann/order.java

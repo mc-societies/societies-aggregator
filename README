@@ -1,0 +1,6 @@
+
+#Building
+
+git clone https://github.com/mc-societies/societies-aggregator
+git submodule foreach git pull
+mvn package
